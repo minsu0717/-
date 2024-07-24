@@ -3,6 +3,15 @@
 ![image](https://github.com/user-attachments/assets/d7a6e39c-8eeb-495c-b92f-2df4f7cbcc78)
 네트워크에서 통신이 일어나는 과정을 7단계로 나눈 것을 말한다. 계층을 나눈 이유는 통신이 일어나는 과정을 단계별로 파악할 수 있기 때문이다. 7단계 중 특정한 곳에 이상이 생기면 다른 단계의 장비 및 소프트웨어를 건들이지 않고도 이상이 생긴 단계만 고칠 수 있기 때문이다.
 
+### 1계층 - 물리 계층(Physical Layer)
+### 2계층 - 데이터링크 계층(DataLink Layer)
+### 3계층 - 네트워크 계층(Network Layer)
+### 4계층 - 전송 계층(Transport Layer)
+### 5계층 - 세션 계층(Session Layer)
+### 6계층 - 표현 계층(Presentation Layer)
+### 7계층 - 응용 계층(Transmission Control Protocol)
+
+
 ## TCP와 UDP의 비교
 ### UDP
 UDP(User Datagram Protocol, 사용자 데이터그램 프로토콜)은 비연결형 프로토콜이다.
