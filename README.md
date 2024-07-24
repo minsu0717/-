@@ -1,5 +1,9 @@
 # -
-# TCP와 UDP의 비교
+## OSI 7계층
+![image](https://github.com/user-attachments/assets/d7a6e39c-8eeb-495c-b92f-2df4f7cbcc78)
+네트워크에서 통신이 일어나는 과정을 7단계로 나눈 것을 말한다. 계층을 나눈 이유는 통신이 일어나는 과정을 단계별로 파악할 수 있기 때문이다. 7단계 중 특정한 곳에 이상이 생기면 다른 단계의 장비 및 소프트웨어를 건들이지 않고도 이상이 생긴 단계만 고칠 수 있기 때문이다.
+
+## TCP와 UDP의 비교
 ### UDP
 UDP(User Datagram Protocol, 사용자 데이터그램 프로토콜)은 비연결형 프로토콜이다.
 
